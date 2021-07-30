@@ -30,6 +30,7 @@ Run it with `$ xtw` instead by adding `alias xtw=xcolor-tailwind` to your `.zshr
 
 ## Related
 
+- [Backlog](https://workflowy.com/s/xcolor-tailwind/7DqhCAQMg5guwyGS) - Backlog for this module (view only)
 - [xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
-- [hex-to-tailwind](https://github.com/TedisAgolli/hex-to-tailwind) - Hex to Tailwind Converter
+- [hex-to-tailwind](https://github.com/TedisAgolli/hex-to-tailwind) - Hex to Tailwind converter
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
