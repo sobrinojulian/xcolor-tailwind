@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "xcolor-tailwind",
+  "version": "1.0.0",
+  "bin": "cli.js",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "hex-to-tailwind": "^1.0.1"
+  }
+}
