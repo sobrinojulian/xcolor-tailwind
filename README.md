@@ -8,7 +8,7 @@ Lightweight color picker for X11. Use mouse to select colors visible anywhere on
 
 ```
 $ yay -S xcolor
-$ npm install --global https://github.com/sobrinojulian/xcolor-tailwind
+$ npm install --global https://github.com/sobrinojulian/xcolor-tailwind-cli
 ```
 
 
